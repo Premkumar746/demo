@@ -10,7 +10,10 @@ def answer():
     print('Hey, Buddy !')
     print("I am okay. Thank you !")
 
+def bugfix():
+    print("All bugs fixed successfully")
 
 
 
 greeting("Prem")
+bugfix()
